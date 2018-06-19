@@ -10,5 +10,5 @@ class Project
     backers << name
     name.backed_project << self
   end
-end 
+end
   
