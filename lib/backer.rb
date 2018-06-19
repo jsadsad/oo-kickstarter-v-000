@@ -1,5 +1,3 @@
 class Backer
-  @backed_projects = []
-  
-  attr_accessor 
+  def initialize()
 end
